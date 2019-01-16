@@ -201,4 +201,20 @@ export default {
   
 }
 .sources .page{text-align:center;margin:5px 0;}
+.sources .transfer-footer {
+    margin-left: 20px;
+    padding: 6px 5px;
+  }
+
+.sources .el-transfer-panel {
+  width: 500px;
+}
+
+.sources .el-transfer-panel__body {
+  height: 500px;
+}
+
+.sources .el-transfer-panel__list.is-filterable {
+  height: 468px;
+}
 </style>
